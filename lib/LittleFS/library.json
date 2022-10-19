@@ -1,0 +1,19 @@
+{
+  "name": "LittleFS",
+  "frameworks": "Arduino",
+  "platforms": "Teensy",
+  "keywords": "Data Storage",
+  "description": "LittleFS for Teensy",
+  "homepage": "https://github.com/PaulStoffregen/LittleFS",
+  "authors":
+  {
+    "name": "Paul Stoffregen",
+    "maintainer": true
+  },
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/PaulStoffregen/LittleFS"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gnss",
+  "frameworks": "Arduino",
+  "platforms": "Teensy",
+  "keywords": "GNSS",
+  "description": "RTK GNSS subsystem",
+    "authors":
+  {
+    "name": "Neal Marley Hollingsworth",
+    "maintainer": true
+  },
+  "version": "1.0"
+}

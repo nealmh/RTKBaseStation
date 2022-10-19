@@ -1,0 +1,13 @@
+{
+  "name": "rtcm_link",
+  "frameworks": "Arduino",
+  "platforms": "Teensy",
+  "keywords": "radio",
+  "description": "RTCM Link radio system",
+    "authors":
+  {
+    "name": "Neal Marley Hollingsworth",
+    "maintainer": true
+  },
+  "version": "1.0"
+}
